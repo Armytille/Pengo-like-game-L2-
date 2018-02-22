@@ -1,0 +1,6 @@
+emcc main_cpy2.c -O3 -Wall -W -Wextra -o main_cpy2.html --preload-file Pacman
+
+
+
+
+/* I let the Emscripten canvas on purpose on the .html  */
